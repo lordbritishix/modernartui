@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_more_info">More Information</string>
+    <string name="visit_moma_title">Inspired by the works of artists such as Sol LeWitt and Ben Nicholson.\n\n Click below to learn more!</string>
+    <string name="visit_moma_ok">Visit MOMA</string>
+    <string name="visit_moma_cancel">Not Now</string>
+    <string name="about">Made by Jim Quitevis</string>
+</resources>
